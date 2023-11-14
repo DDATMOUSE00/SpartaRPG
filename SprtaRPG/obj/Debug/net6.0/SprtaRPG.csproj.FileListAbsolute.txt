@@ -1,0 +1,19 @@
+D:\unity2week\SprtaRPG\SprtaRPG\bin\Debug\net6.0\SprtaRPG.exe
+D:\unity2week\SprtaRPG\SprtaRPG\bin\Debug\net6.0\SprtaRPG.deps.json
+D:\unity2week\SprtaRPG\SprtaRPG\bin\Debug\net6.0\SprtaRPG.runtimeconfig.json
+D:\unity2week\SprtaRPG\SprtaRPG\bin\Debug\net6.0\SprtaRPG.dll
+D:\unity2week\SprtaRPG\SprtaRPG\bin\Debug\net6.0\SprtaRPG.pdb
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.AssemblyInfoInputs.cache
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.AssemblyInfo.cs
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.csproj.CoreCompileInputs.cache
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.dll
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\refint\SprtaRPG.dll
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.pdb
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\SprtaRPG.genruntimeconfig.cache
+D:\unity2week\SprtaRPG\SprtaRPG\obj\Debug\net6.0\ref\SprtaRPG.dll
+C:\Users\qiqib\OneDrive\Desktop\만들어진 게임\Debug\net6.0\SprtaRPG.exe
+C:\Users\qiqib\OneDrive\Desktop\만들어진 게임\Debug\net6.0\SprtaRPG.deps.json
+C:\Users\qiqib\OneDrive\Desktop\만들어진 게임\Debug\net6.0\SprtaRPG.runtimeconfig.json
+C:\Users\qiqib\OneDrive\Desktop\만들어진 게임\Debug\net6.0\SprtaRPG.dll
+C:\Users\qiqib\OneDrive\Desktop\만들어진 게임\Debug\net6.0\SprtaRPG.pdb
