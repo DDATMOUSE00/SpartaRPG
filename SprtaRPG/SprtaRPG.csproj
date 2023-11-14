@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <BaseOutputPath>C:\Users\qiqib\OneDrive\Desktop\만들어진 게임</BaseOutputPath>
+    <BaseOutputPath>C:\Users\qiqib\OneDrive\Desktop\game</BaseOutputPath>
   </PropertyGroup>
 
 </Project>
